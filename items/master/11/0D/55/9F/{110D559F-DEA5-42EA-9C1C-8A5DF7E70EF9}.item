@@ -316,15 +316,15 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: db418737-6c30-4b5f-92fc-fb87a9e08b82
+revision: f2044a25-3c4f-424e-ab2b-c93074326d91
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 13
+content-length: 31
 
-Sitecore derp
+Sitecore - the core of the site
 ----field----
 field: {A60ACD61-A6DB-4182-8329-C957982CEC74}
 name: Text
@@ -396,14 +396,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-db418737-6c30-4b5f-92fc-fb87a9e08b82
+f2044a25-3c4f-424e-ab2b-c93074326d91
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 34
 
-20160810T210729:636064600495924144
+20160810T210840:636064601205200862
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
